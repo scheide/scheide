@@ -17,9 +17,4 @@ jobs:
       with:
         comment_tag_name: YOUTUBE
         max_post_count: 4
-feed_list:"https://www.youtube.com/feeds/videos.xml?channel_id=codigofontetv"
-
-- uses: gautamkrishnar/blog-post-workflow@master
-    with:
-    comment_tag_name: MEDIUM
-    feed_list: "https://medium.com/feed/@YOU_PROFILE"
+feed_list:"https://www.youtube.com/feeds/videos.xml?channel_id=UC0GUaQ6lVzvu0FWklbsKFhg"
